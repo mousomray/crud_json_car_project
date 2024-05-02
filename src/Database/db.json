@@ -1,0 +1,130 @@
+{
+  "customer": [
+    {
+      "name": "Mousom Ray",
+      "email": "mousomray02@gmail.com",
+      "phone": "9903419235",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "carname": "Honda",
+      "id": "1"
+    },
+    {
+      "id": "06dc",
+      "name": "Rahul Pal",
+      "email": "rahul78@gmail.com",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "Honda",
+      "phone": "8017505010"
+    },
+    {
+      "id": "c0e9",
+      "name": "Rahul Das",
+      "email": "rahul78@gmail.com",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "Honda",
+      "phone": "8017505010"
+    },
+    {
+      "id": "b8b4",
+      "name": "Ranit Dey",
+      "email": "ranit08@gmail.com",
+      "phone": "7898745652",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "Discover"
+    },
+    {
+      "id": "54c9",
+      "name": "Anil Kumble",
+      "email": "kumble78@gmail.com",
+      "phone": "7878454510",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "Honda"
+    },
+    {
+      "id": "471b",
+      "name": "Sudip Ray ",
+      "email": "saa08@gmail.com",
+      "phone": "7896545412",
+      "city": "Kolkata",
+      "state": "Bengal",
+      "carname": "Pulsar"
+    },
+    {
+      "id": "0150",
+      "name": "Amit Panda ",
+      "email": "ami78@gmail.com",
+      "phone": "6289654541",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "BMW"
+    },
+    {
+      "id": "2fae",
+      "name": "Sonali",
+      "email": "sonali@gmail.com",
+      "phone": "8017505010",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "KRC"
+    },
+    {
+      "id": "c01c",
+      "name": "Asalanka",
+      "email": "aas088@gmail.com",
+      "phone": "8017505010",
+      "city": "Kolkata",
+      "state": "aasasas",
+      "carname": "asasas"
+    },
+    {
+      "id": "69d9",
+      "name": "Rohit Sharma",
+      "email": "sharma45@gmail.com",
+      "phone": "7898747510",
+      "city": "Mumbai",
+      "state": "Nabi Mumbai",
+      "carname": "Honda"
+    },
+    {
+      "id": "f3a1",
+      "name": "Virat Das",
+      "email": "kohli08@gmail.com",
+      "phone": "8017505010",
+      "city": "Delhi",
+      "state": "Uttarpradesh",
+      "carname": "Honda"
+    },
+    {
+      "id": "3c01",
+      "name": "Anirban",
+      "email": "ani08@gmail.com",
+      "phone": "8017505010",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "Honda"
+    },
+    {
+      "id": "8f06",
+      "name": "Gopu Jiu",
+      "email": "assa08@gmail.com",
+      "phone": "8017505010",
+      "city": "Kolkata",
+      "state": "Westbengal",
+      "carname": "Honda"
+    },
+    {
+      "id": "1de5",
+      "name": "Mousom Ray",
+      "email": "mousomray02@gmail.com",
+      "phone": "9903419235",
+      "city": "Uttarpara",
+      "state": "Westbengal",
+      "carname": "Honda"
+    }
+  ]
+}
